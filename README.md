@@ -3,6 +3,12 @@
 Materials for 2023 AFRIC Statistical learning workshop including data, scripts,
 and slides
 
+## Slides
+
+The slides for the workshops are as follows:
+
+- **AFRIC_WorkshopStatisticalLearningPresentation.pdf**: Theoretical part
+
 
 ## Scripts
 

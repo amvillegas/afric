@@ -7,6 +7,7 @@ packages <- c("tidyverse",    #Data cleaning and plotting
               "glmnet",       #Lasso, ridge
               "rpart",        #Fitting a tree
               "rpart.plot",   #Plotting a tree 
+              "randomForest", #Random forest
               "gbm",          #Boosting
               "pROC"          #ROC and model evaluation
 ) 
