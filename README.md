@@ -22,7 +22,7 @@ The workshop data can be donwloaded from
 
 https://www.dropbox.com/s/4b8gtufilgmb4az/VicRoadFatalData.csv?dl=0. 
 
-The  dataset consists of real road crashes in Victoria obtained from the [\underline{CrashStats}](https://discover.data.vic.gov.au/dataset/crash-stats-data-extract) datasets provided by VicRoads. The CrashStats data allows us to analyse serious vehicle crashes based on time, location, conditions, crash type, road user type, object hit etc.
+The  dataset consists of real road crashes in Victoria obtained from the [CrashStats](https://discover.data.vic.gov.au/dataset/crash-stats-data-extract) datasets provided by VicRoads. The CrashStats data allows us to analyse serious vehicle crashes based on time, location, conditions, crash type, road user type, object hit etc.
 
 The workshop dataset `VicRoadFatalData.csv` has been prepared by linking and cleaning several of the files available in CrashStats. This dataset includes data for 200,000 drivers involved in road crashes in Victoria between 2006 and 2020. For each of the 200,000 instances we have information on 27 variables describing the driver, the driver's vehicle, and other accident-related information (e.g., time, road conditions, etc.). These are described below:
 
@@ -78,5 +78,5 @@ The workshop dataset `VicRoadFatalData.csv` has been prepared by linking and cle
 | fatal                      | Whether the accident was fatal or not                                      | Yes (`TRUE`), No (`FALSE`)                    |
 
 
-You can see further information about the variables in the [\underline{metadata file}](https://data.vicroads.vic.gov.au/Metadata/Crash%20Stats%20-%20Data%20Extract%20-%20Open%20Data.html) provided by VicRoads.
+You can see further information about the variables in the [metadata file](https://data.vicroads.vic.gov.au/Metadata/Crash%20Stats%20-%20Data%20Extract%20-%20Open%20Data.html) provided by VicRoads.
 
